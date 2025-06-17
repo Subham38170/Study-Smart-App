@@ -19,12 +19,8 @@ fun DashboardScreenTopBar(){
                 text = "StudySmart",
                 style = Typography.headlineMedium
             )
-        },
-        navigationIcon = {
-            Icon(
-                i
-            )
         }
+
     )
 }
 
